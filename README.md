@@ -20,6 +20,7 @@ github_test
 ### 코드 테스트
 
 ```
-<html lang="ko-KR"></html>
+<html lang="ko-KR">
+</html>
 
 ```
